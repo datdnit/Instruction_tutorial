@@ -242,7 +242,7 @@ main .welcome__content .welcome__courses .row {
 }
 
 main .basicOurStar {
-  background-image: url(/assets/imgs/banner2.jpg);
+  background-image: url(../assets/imgs/banner2.jpg);
   background-attachment: fixed;
   background-size: cover;
   padding: 80px 0;
@@ -308,7 +308,7 @@ main .basicOffer .offer__content .offer__item:hover {
 
 main .basicFeedBack {
   padding: 80px 0;
-  background-image: url(/assets/imgs/banner3.jpg);
+  background-image: url(../assets/imgs/banner3.jg);
   background-attachment: fixed;
   background-size: cover;
 }
